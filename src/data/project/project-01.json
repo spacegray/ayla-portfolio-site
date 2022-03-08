@@ -1,0 +1,24 @@
+{
+    "id": "project-01",
+    "title": "MusicHub",
+    "category": "Full-Stack Development",
+    "client": "App Academy",
+    "imgesBY": "Ayla Basha",
+    "link": "https://musichub-aa.herokuapp.com/",
+    "year": "2021",
+    "featured_image": "./images/project-01.jpg",
+    "is_featured": true,
+    "body": [
+        "Clone of Spotify which showcases Albums, Artists and Songs. Users may create playlists, read and leave reviews, as well as search the site for their favorite song, album or artist"
+    ],
+    "features": [
+        {
+            "id": "feature-1",
+            "image": "./images/project-01-Artist-page.jpg"
+        },
+        {
+            "id": "feature-2",
+            "image": "./images/project-01-Playlist-View.jpg"
+        }
+    ]
+}

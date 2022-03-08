@@ -1,0 +1,28 @@
+{
+    "id": "project-02",
+    "title": "PetOverflow",
+    "category": "Full-Stack Development",
+    "client": "App Academy",
+    "imgesBY": "Ayla Basha",
+    "link": "https://pet-overflow.herokuapp.com/",
+    "year": "2021",
+    "featured_image": "./images/project-02-landing.jpg",
+    "is_featured": true,
+    "body": [
+        "Want to find the answers to your pet questions and connect with others in the community? Visit PetOverflow."
+    ],
+    "features": [
+        {
+            "id": "feature-1",
+            "image": "./images/project-02-login.jpg"
+        },
+        {
+            "id": "feature-2",
+            "image": "./images/project-02-question.jpg"
+        },
+         {
+            "id": "feature-3",
+            "image": "./images/project-02-question.jpg"
+        }
+    ]
+}

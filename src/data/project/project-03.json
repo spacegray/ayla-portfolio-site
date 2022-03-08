@@ -1,0 +1,25 @@
+{
+    "id": "project-03",
+    "title": "HauteFinder",
+    "category": "Full-Stack Development",
+    "client": "App Academy",
+    "imgesBY": "Ayla Basha",
+     "link": "https://haute-finder.herokuapp.com/",
+    "year": "2021",
+    "featured_image": "./images/project-03.jpg",
+    "is_featured": true,
+    "body": [
+        "HauteFinder is simple clone of Poshmark, a social marketplace where users may list items for sale, search for listings, and add them to their order"
+    ],
+    "features": [
+        {
+            "id": "feature-1",
+            "image": "./images/project-03-feed.jpg"
+        },
+        {
+            "id": "feature-3",
+            "image": "./images/project-03-shopping-bag.jpg"
+        }
+        
+    ]
+}

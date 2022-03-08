@@ -1,0 +1,28 @@
+{
+    "id": "project-04",
+    "title": "DJ Ayla Simone",
+    "category": "Web Development and Design",
+    "client": "App Academy",
+    "imgesBY": "Ayla Basha",
+     "link": "https://www.djaylasimone.com/",
+    "year": "2021",
+    "featured_image": "./images/project-04-dj-landing-page.png",
+    "is_featured": true,
+    "body": [
+        "This site was created to showcase Artist DJ Ayla Simone, highlights include Event Calendar, Song Player, Video player, Social Media links, and a Contact Form."
+    ],
+    "features": [
+        {
+            "id": "feature-1",
+            "image": "./images/project-04-dj-bio-page.png"
+        },
+        {
+            "id": "feature-2",
+            "image": "./images/project-04-dj-events.png"
+        },
+        {
+            "id": "feature-3",
+            "image": "./images/project-04-dj-video-page.png"
+        }
+    ]
+}

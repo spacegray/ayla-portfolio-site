@@ -1,0 +1,28 @@
+{
+    "id": "project-07",
+    "title": "AirbnBoats",
+    "category": "React.js | Express.js | PostgreSQL",
+    "client": "App Academy",
+    "imgesBY": "Ayla Basha",
+    "link": "https://github.com/spacegray",
+    "year": "2021",
+    "featured_image": "./images/project-07-splash.jpg",
+    "is_featured": true,
+    "body": [
+        "AirbnBoats is a clone of Airbnb that provides a space for users to find exceptional boats. Your adventure awaits!"
+    ],
+    "features": [
+        {
+            "id": "feature-1",
+            "image": "./images/project-07-listings.jpg"
+        },
+        {
+            "id": "feature-2",
+            "image": "./images/project-07-logged-in.jpg"
+        },
+        {
+            "id": "feature-3",
+            "image": "./images/project-07-user-profile.jpg"
+        }
+    ]
+}
