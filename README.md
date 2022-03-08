@@ -1,3 +1,7 @@
 # Welcome to my portfolio site
 
-Please visit www.github.com/spacegray for more information
+## Package Manager
+npm install
+
+## Run Scripts
+npm start
